@@ -88,6 +88,12 @@ def Main() :
 
 Main()
 
+# Time : O(n)
+# Example of Selection Sort : 76 67 36 55 23 14 06
+
+# Time : O(n2)
+# Example of Bubble Sort : 10 9 11 5 2
+
 # (base) trushantramdasjadhav@Trushants-MacBook-Air FDS % cd "/Users/trushantramdasjadhav/Desktop/TicketingSystem/FD
 # S"
 # (base) trushantramdasjadhav@Trushants-MacBook-Air FDS % python -u "/Users/trushantramdasjadhav/Desktop/TicketingSy
