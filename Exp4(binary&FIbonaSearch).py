@@ -155,6 +155,17 @@ Main()
 
 
 
+# Time : O(1)
+# Binary Search: 11 22 33 44 55 66 77 88
+# Target ; 88
+
+
+# Time : O(log n)
+# Fibonacci Search: 10 22 35 40 45 50 80 82 85 90 100
+# Target : 85
+# length of array : 11
+
+
 # cd "/Users/trushantramdasjadhav/Desktop/TicketingSystem/FDS"
 # python -u "/Users/trushantramdasjadhav/Desktop/TicketingSystem/FDS/Exp4.py"
 # (base) trushantramdasjadhav@Trushants-MacBook-Air FDS % cd "/Users/trushantramdasjadhav/Desktop/TicketingSystem/FD
