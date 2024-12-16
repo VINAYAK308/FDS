@@ -85,6 +85,8 @@ def Main() :
 Main()
 
 
+# example of Quick Sort: 39 09 81 45 90 27 72 18
+
 
 
 
